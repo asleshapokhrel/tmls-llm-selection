@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tmls-llm-selection"
+version = "0.1.0"
+package-mode = false
+authors = ["asleshapokhrel <aslesha.pokhrel@mail.utoronto.ca>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+dspy = "^0.1.5"
+python-dotenv = "^1.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
