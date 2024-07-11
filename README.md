@@ -20,10 +20,17 @@ If you would like to use Groq for Mistral model, please signup for an API key he
     2. Click on Create API Key and give it a name
     3. Copy the key to the Secrets tab on the left bar of your colab
 
-## Tutorial notebook
-Follow along DSPy tutorial 
+## Tutorial notebooks
+
+### DSPy
+Follow along with DSPy tutorial:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D8hx5VTve5ZdSDXjMOYwSJ3Jv402NYfc?usp=sharing)
+
+### TextGrad
+Access TextGrad tutorial: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16mAeLKczf4wxBhPSJT7KnMcwftjX9QQy?usp=sharing)
 
 
 
