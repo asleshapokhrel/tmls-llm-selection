@@ -1,6 +1,6 @@
 # TMLS - Modular LLM development with DSPy
 
-This is a hands-on tutorial and you will get the most out of it if you are able to run the notebook along with us. If you have OpenAI API Key, please use that or follow the links below to get one of Groq or Gemini free API Keys:
+This is a hands-on tutorial and you will get the most out of it if you are able to run the notebook along with us. You do not need to clone this repo. Please copy the colab notebooks linked below to follow along. If you have OpenAI API Key, please use that or follow the links below to get one of Groq or Gemini free API Keys:
 
 
 ## Google API KEY
