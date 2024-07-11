@@ -21,7 +21,7 @@ If you would like to use Groq for Mistral model, please signup for an API key he
     3. Copy the key to the Secrets tab on the left bar of your colab
 
 ## Openai API KEY
-If you do not have an API key, please enter your email at the link below:
+If you do not have an API key, please enter your email at the link below. We can only share keys with gmails accounts at this time.
 
 [![Open In Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png)](
 https://docs.google.com/spreadsheets/d/1w4cf9Kc2ZMTPUYWoq47UT7eDuSGBTa8bO0a73TRq0yc/edit?usp=sharing)
